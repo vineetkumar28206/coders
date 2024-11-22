@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.bg{
+    background-image: url(/Berry+Picking.jpg);
+    height: 100vh;
+    width: 100vw;
+    
+    
+    background-size: cover;
+
+}
+
+h1{
+    color: wheat;
+    font-size: 100px;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    top: 40%;
+    bottom: 60%; 
+    position: absolute;
+
+
+
+
+}
+
+
+
+
+
